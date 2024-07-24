@@ -7,7 +7,7 @@
   </a>
 </p>
 
-> Versus admin dashboard with upgraded features, functional components, featuring widgets, activity charts, data tables and paginations, user page, product page, blog, login, register and more.
+> React admin dashboard with upgraded features, functional components, featuring widgets, activity charts, data tables and paginations, user page, product page, blog, login, register and more.
 
 ### ✨ [Live Demo](https://react-analytics-dashboard.vercel.app/dashboard/app)
 

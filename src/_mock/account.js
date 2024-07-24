@@ -1,8 +1,8 @@
 // ----------------------------------------------------------------------
 
 const account = {
-  displayName: 'James Balogun',
-  email: 'jamesb@gmail.com',
+  displayName: 'Narayana Reddy',
+  email: 'narayanreddieui@gmail.com',
   photoURL: '/static/mock-images/avatars/avatar_6.jpg',
 };
 

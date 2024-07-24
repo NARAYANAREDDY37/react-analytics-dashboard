@@ -1,6 +1,6 @@
 {
-  "name": "@minimal/material-kit-react",
-  "author": "vinyl",
+  "name": "react-analytics-dashboard",
+  "author": "cnr",
   "licence": "MIT",
   "version": "1.5.0",
   "private": false,

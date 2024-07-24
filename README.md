@@ -1,4 +1,4 @@
-# Versus-Dashboard-V2 👋
+# react-analytics-dashboard 👋
 
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-2.0.0-blue.svg?cacheSeconds=2592000" />
@@ -9,21 +9,13 @@
 
 > Versus admin dashboard with upgraded features, functional components, featuring widgets, activity charts, data tables and paginations, user page, product page, blog, login, register and more.
 
-### ✨ [Live Demo](https://versusboardv2.netlify.app)
+### ✨ [Live Demo]()
 
 ## Author
 
-👤 **Vinyl Davyl**
+👤 **CNR**
 
-- Website: https://vinyldavyl.netlify.app
-- Twitter: [@Vinylchi](https://twitter.com/Vinylchi)
 
-## Support is contiguous 
-
-Leave a ⭐️ If this project got you going!
-<p>
-  <a href="https://www.buymeacoffee.com/VinylDavyl"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee.com/VinylDavyl" /></a>
-</p>
 <br /><br />
 
 ## Getting Started
